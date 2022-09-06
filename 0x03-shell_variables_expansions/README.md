@@ -1,1 +1,2 @@
-#!/bin/bash                                                                      'my first variable expansion readme'
+#!/bin/bash
+'my first shell init files,variables and expansion readme'
